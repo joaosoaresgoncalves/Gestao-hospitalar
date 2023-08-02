@@ -1,0 +1,6 @@
+code;nome;quantidade;qualidade_media;cod_departamento;cod_tipo
+1;computadores;15;baixa;0;0
+2;seringas;100;boa;2;2
+3;pensos;80;boa;1;3
+4;computadores;10;boa;1;2
+5;sangue;8;boa;1;4

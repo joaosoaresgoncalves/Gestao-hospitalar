@@ -1,0 +1,15 @@
+code;name;funcao;dob;gender;nif;salary;email;phone;depcode;username;password;tipo
+1;Manuel Lopes;Administrador;1970-03-08;M;467249111;8531.0;m1@email.com;918456799;0;m101;101;admin
+2;Pedro Santos;Medico;1979-09-08;M;468197382;2200.0;m2@email.com;916789435;1;m102;102;user
+3;Filipa Duarte;Medico;1982-09-18;F;761349824;1900.0;m3@email.com;929876313;2;m103;103;user
+4;Joao Ferreira;Medico;1978-10-05;M;978612547;2370.0;m4@email.com;946789351;3;m104;104;user
+5;Maria Mota;Medico;1983-11-09;F;194679834;2470.0;m4@email.com;946789351;3;m104;104;user
+6;Ana Costa;Enfermeira;1992-03-22;F;931297808;2954.0;m106@email.com;935163639;3;m106;106;user
+7;Ana Costa;Enfermeira;1972-11-15;F;278595540;1222.0;m107@email.com;918364869;4;m107;107;user
+8;Luis Fernandes;Enfermeiro;1989-02-01;M;494429954;2054.0;m108@email.com;980127219;1;m108;108;user
+9;Miguel Santos;Medico;1995-05-10;M;164915440;2921.0;m109@email.com;927492959;2;m109;109;user
+10;Marco Rodrigues;Medico;1971-09-24;M;648028897;3623.0;m110@email.com;954034146;1;m110;110;user
+11;Pedro Silva;Medico;1990-07-09;M;186979834;5053.0;m111@email.com;976100075;1;m111;111;user
+12;Miguel Pereira;Nutricionista;1990-06-11;M;339850465;1698.0;m112@email.com;988515290;2;m112;112;user
+13;Antonia Costa;Medica;1960-10-22;F;249989299;5200.0;m113@email.com;907814111;1;m113;113;user
+14;Teresa Borga;Enfermeira;1994-05-12;F;377136146;2560.0;m114@email.com;980724207;3;m114;114;user
